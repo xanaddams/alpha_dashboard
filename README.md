@@ -1,20 +1,9 @@
 # 🔥 🔥 Smart Admin Panel & Dashboard 
 
-Flutter Web Smart Admin & Panel Dashboard with flutter UI kit.
+### Admin Panel & Dashboard
 
 
-### Support 
-
-> ⭐️ If you want to access the backend(Firebase or Django) integrated fully management system with comprehensive features and good documentation. You can leave me message. ⭐️
-
-
-[![BTC](https://img.shields.io/badge/BTC-33FY83UU8o5q8qogNzFY2CegPn6PzRCsJA-f5f5f5?logo=bitcoin)](https://blockchain.com/btc/address/33FY83UU8o5q8qogNzFY2CegPn6PzRCsJA)
-
-
-### Smart Admin Panel & Dashboard
-
-
-![alt text](/screenshots/deniz-codes-sc.png)
+//![alt text](/screenshots/deniz-codes-sc.png)
 
 
 ### 💻 Requirements
@@ -26,4 +15,4 @@ Flutter Web Smart Admin & Panel Dashboard with flutter UI kit.
 
 ### 👨‍💻 Author
 
-Developed by Deniz Çolak
+Alexander here. just doing things
