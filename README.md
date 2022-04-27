@@ -3,7 +3,7 @@
 ### Admin Panel & Dashboard
 
 
-//![alt text](/screenshots/deniz-codes-sc.png)
+//![alt text](/screenshots/Adobe_20220414_105459.jpg)
 
 
 ### 💻 Requirements
